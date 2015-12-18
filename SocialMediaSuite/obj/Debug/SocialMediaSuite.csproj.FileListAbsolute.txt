@@ -1,0 +1,13 @@
+C:\Users\chpink\Home\sandbox\SocialMediaSuite\SocialMediaSuite\bin\Debug\SocialMediaSuite.exe.config
+C:\Users\chpink\Home\sandbox\SocialMediaSuite\SocialMediaSuite\bin\Debug\SocialMediaSuite.exe
+C:\Users\chpink\Home\sandbox\SocialMediaSuite\SocialMediaSuite\bin\Debug\SocialMediaSuite.pdb
+C:\Users\chpink\Home\sandbox\SocialMediaSuite\SocialMediaSuite\obj\Debug\SocialMediaSuite.csprojResolveAssemblyReference.cache
+C:\Users\chpink\Home\sandbox\SocialMediaSuite\SocialMediaSuite\obj\Debug\MainWindow.baml
+C:\Users\chpink\Home\sandbox\SocialMediaSuite\SocialMediaSuite\obj\Debug\MainWindow.g.cs
+C:\Users\chpink\Home\sandbox\SocialMediaSuite\SocialMediaSuite\obj\Debug\App.g.cs
+C:\Users\chpink\Home\sandbox\SocialMediaSuite\SocialMediaSuite\obj\Debug\SocialMediaSuite_MarkupCompile.cache
+C:\Users\chpink\Home\sandbox\SocialMediaSuite\SocialMediaSuite\obj\Debug\SocialMediaSuite.g.resources
+C:\Users\chpink\Home\sandbox\SocialMediaSuite\SocialMediaSuite\obj\Debug\SocialMediaSuite.Properties.Resources.resources
+C:\Users\chpink\Home\sandbox\SocialMediaSuite\SocialMediaSuite\obj\Debug\SocialMediaSuite.csproj.GenerateResource.Cache
+C:\Users\chpink\Home\sandbox\SocialMediaSuite\SocialMediaSuite\obj\Debug\SocialMediaSuite.exe
+C:\Users\chpink\Home\sandbox\SocialMediaSuite\SocialMediaSuite\obj\Debug\SocialMediaSuite.pdb
